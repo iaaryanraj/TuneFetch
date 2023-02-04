@@ -1,0 +1,14 @@
+# Virtual Environment Folder
+.venv
+
+# VSCode Folder
+.vscode
+
+# Cache Files
+*.cache
+
+# Jupiter Notebook
+*.ipynb
+
+# Downloads Folder
+Downloads
