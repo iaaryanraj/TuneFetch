@@ -12,3 +12,6 @@
 
 # Downloads Folder
 Downloads
+
+# Python Bytecode
+*.pyc
